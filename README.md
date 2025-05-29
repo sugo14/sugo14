@@ -1,4 +1,4 @@
-## 👋 Hi there
+# 👋 Hi there
 
 I'm Ayman (he/him), a **high school developer** from Edmonton, Alberta 🇨🇦
 
@@ -12,7 +12,9 @@ I'm Ayman (he/him), a **high school developer** from Edmonton, Alberta 🇨🇦
 
 👥 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayman-gani-414b47363/)
 
-### ⬇️ My coolest projects ⬇️
+---
+
+# 🠯 My coolest projects 🠯
 
 <!--
 **sugo14/sugo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
