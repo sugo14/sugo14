@@ -2,15 +2,17 @@
 
 I'm a high school programmer from Edmonton, Alberta 🇨🇦
 
-👀 Interested in all things CS, from [game dev](https://github.com/sugo14/DAAHS-CS-Club-Game) and [embedded systems](https://github.com/CantSatTeam/CanSat2025) to [graphics](https://github.com/sugo14/Console3D) and [competitive programming](https://dmoj.ca/contest/daacc1)
+Interested in all things CS, from [game dev](https://github.com/sugo14/DAAHS-CS-Club-Game) and [embedded systems](https://github.com/CantSatTeam/CanSat2025) to [graphics](https://github.com/sugo14/TerminalVelocity) and [competitive programming](https://dmoj.ca/contest/daacc1)
 
-I use C++, (Micro)Python, C#, and Javascript 🛠️
+I use C++, (Micro)Python, C#, Javascript, and RISC-V
 
-💬 BJJ since 2023, Pokemon and Brawl Stars enjoyer
+BJJ since 2023, Pokemon and Brawl Stars enjoyer
+
+Check out [sugo14.github.io](https://sugo14.github.io) for more stuff!
 
 ---
 
-📫 Message me: aymangani3@gmail.com,
+Message me: aymangani3@gmail.com,
 [LinkedIn](https://www.linkedin.com/in/ayman-gani-414b47363/)
 
 <!--
