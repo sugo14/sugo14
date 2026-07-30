@@ -1,11 +1,15 @@
-# 👋 Hey, I'm Ayman
+<pre><code>╻ ╻╻   ╻╻┏┳┓  ┏━┓╻ ╻┏┳┓┏━┓┏━┓╻
+┣━┫┃   ┃ ┃┃┃  ┣━┫┗┳┛┃┃┃┣━┫┃ ┃╹
+╹ ╹╹╹  ╹ ╹ ╹  ╹ ╹ ╹ ╹ ╹╹ ╹╹ ╹╹
 
-I'm a high school programmer from Edmonton, Alberta 🇨🇦
+I'm a <b>Software Engineering student</b> at UWaterloo, originally from Edmonton, Alberta
 
-Check out [sugo14.github.io](https://sugo14.github.io) for more stuff!
+Check me out at <a href="https://sugo14.github.io"><b>sugo14.github.io</b></a>!
 
-Message me: aymangani3@gmail.com,
-[LinkedIn](https://www.linkedin.com/in/ayman-gani-414b47363/)
+<b>[@] Email:</b>     <a href="mailto:aymangani3@gmail.com">aymangani3@gmail.com</a>
+<b>{#} LinkedIn:</b>  <a href="https://www.linkedin.com/in/ayman-gani-414b47363/">Ayman</a>
+<b>(=) Resume:</b>    <a href="https://sugo14.github.io/assets/resume.pdf">current</a>
+</code></pre>
 
 <!--
 **sugo14/sugo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
