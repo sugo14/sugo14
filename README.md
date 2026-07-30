@@ -4,11 +4,11 @@
 
 I'm a <b>Software Engineering student</b> at UWaterloo, originally from Edmonton, Alberta
 
-Check me out at <a href="https://sugo14.github.io"><b>sugo14.github.io</b></a>!
+Check me out at <a href="https://sugo14.github.io" target="_blank" rel="noopener noreferrer"><b>sugo14.github.io</b></a>!
 
 <b>[@] Email:</b>     <a href="mailto:aymangani3@gmail.com">aymangani3@gmail.com</a>
-<b>{#} LinkedIn:</b>  <a href="https://www.linkedin.com/in/ayman-gani-414b47363/">Ayman</a>
-<b>(=) Resume:</b>    <a href="https://sugo14.github.io/assets/resume.pdf">current</a>
+<b>{#} LinkedIn:</b>  <a href="https://www.linkedin.com/in/aymangani/" target="_blank" rel="noopener noreferrer">Ayman</a>
+<b>(=) Resume:</b>    <a href="https://sugo14.github.io/assets/resume.pdf" target="_blank" rel="noopener noreferrer">current</a>
 </code></pre>
 
 <!--
